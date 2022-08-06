@@ -1,10 +1,4 @@
 mohammmed
 python
-
-
-
-
-
 html
-
 js
